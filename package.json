@@ -1,13 +1,13 @@
 {
-  "name": "n1-hull",
+  "name": "mailspring-hull",
   "title": "Hull",
   "displayName": "Hull",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Inpsired by Taiga. Made even lighter.",
   "license": "GPL-3.0",
   "engines": {
-    "nylas": "*"
+    "mailspring": "*"
   },
   "styleSheets": ["controls", "email-frame", "sidebar", "threads", "notifications"],
   "private": true
